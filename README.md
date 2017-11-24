@@ -1,24 +1,7 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Hello,
 
-* Ruby version
+This is an RSS feed reader/parser in RoR 5, inspired in part by this tutorial: https://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Canaan 2017
